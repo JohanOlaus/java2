@@ -9,8 +9,8 @@ package javatest;
  *
  * @author Main
  */
-public class NewClass1 {
+public class test2 {
     public static void test(){
-        String fnamn = "karin";
+        String fnamn = "davidC";
     }
 }
